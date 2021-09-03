@@ -5,9 +5,7 @@ function MyApp({ Component, pageProps }) {
   return (
     <>
       <Head>
-        <title>
-          Instrument.uz ✅ - Интернет Магазин | Доставка за 24 часа |{" "}
-        </title>
+        <title>Nextify 🌠 - Awesome Boilerplate</title>
         <link
           rel="apple-touch-icon"
           sizes="180x180"
